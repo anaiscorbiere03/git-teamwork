@@ -1,12 +1,10 @@
-# copier dans le fichier README.md
-# les lignes produites par ce code
+#mettez ici le nombre de personnes dans votre groupe
 
-# mettez ici le nombre de personnes dans votre groupe
-
-how_many_people = 4
-
-print("# the teamwork TP\n")
-
-for i in range(1, how_many_people + 1):
-    print(f"{i:02d} Nom:")
-    print(f"{i:02d} github:")
+01 Nom:
+01 github:
+02 Nom:
+02 github:
+03 Nom:
+03 github:
+04 Nom:
+04 github:
