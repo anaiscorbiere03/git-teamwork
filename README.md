@@ -2,8 +2,8 @@
 
 01 Nom: Corbière
 01 github: anais-corbiere
-02 Nom:
-02 github:
+02 Nom:Naudet
+02 github:sybille-naudet
 03 Nom: Elena Drematcheff
 03 github: ElenaDrematcheff
 04 Nom: Lepage
